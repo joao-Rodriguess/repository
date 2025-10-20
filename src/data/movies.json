@@ -1,0 +1,103 @@
+
+[
+  {
+    "imdbID": "tt0111161",
+    "Title": "The Shawshank Redemption",
+    "Year": "1994",
+    "Poster": "https://resizing.flixster.com/hgcQ8juhhUYQofbQ6wsXfhicb3Y=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15987_p_v13_ap.jpg",
+    "Plot": "Dois homens presos criam um vínculo ao longo de anos enquanto planejam a fuga.",
+    "Director": "Frank Darabont",
+    "Actors": "Tim Robbins, Morgan Freeman",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0068646",
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Poster": "https://entrerios-prod.s3.amazonaws.com/uploads/post/cover_image/210/1_20230130025645..jpeg",
+    "Plot": "A história da família mafiosa Corleone e a luta pelo poder.",
+    "Director": "Francis Ford Coppola",
+    "Actors": "Marlon Brando, Al Pacino",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0468569",
+    "Title": "The Dark Knight",
+    "Year": "2008",
+    "Poster": "https://imusic.b-cdn.net/images/item/original/581/7321902176581.jpg?the-dark-knight-2008-batman-the-dark-knight-2008-special-edition-dvd&class=scaled&v=1256965259",
+    "Plot": "Batman enfrenta o caos trazido pelo Coringa em Gotham City.",
+    "Director": "Christopher Nolan",
+    "Actors": "Christian Bale, Heath Ledger",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0110912",
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "Poster": "https://m.media-amazon.com/images/I/81UTs3sC5hL._AC_SY300_SX300_QL70_ML2_.jpg",
+    "Plot": "Histórias entrelaçadas de criminosos em Los Angeles.",
+    "Director": "Quentin Tarantino",
+    "Actors": "John Travolta, Uma Thurman",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0137523",
+    "Title": "Fight Club",
+    "Year": "1999",
+    "Poster": "https://br.web.img3.acsta.net/medias/nmedia/18/90/95/96/20122166.jpg",
+    "Plot": "Um homem descontente cria um clube clandestino que foge do controle.",
+    "Director": "David Fincher",
+    "Actors": "Brad Pitt, Edward Norton",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt1375666",
+    "Title": "Inception",
+    "Year": "2010",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjhkNjM0ZTMtNGM5MC00ZTQ3LTk3YmYtZTkzYzdiNWE0ZTA2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "Plot": "Equipe invade sonhos para plantar uma ideia no subconsciente.",
+    "Director": "Christopher Nolan",
+    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0109830",
+    "Title": "Forrest Gump",
+    "Year": "1994",
+    "Poster": "https://play-lh.googleusercontent.com/aM6tZbxxgOk0A0kFHS3VxiBpsMpF1-Yl7hOSmoTcZ8qlnoIV8wWt3sSTVNospBn3kmwcRA",
+    "Plot": "A vida extraordinária de um homem simples que testemunha momentos históricos.",
+    "Director": "Robert Zemeckis",
+    "Actors": "Tom Hanks, Robin Wright",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0133093",
+    "Title": "The Matrix",
+    "Year": "1999",
+    "Poster": "https://conteudo.imguol.com.br/c/splash/d5/2021/12/07/cartaz-de-matrix-resurrections-1638902188140_v2_1295x1920.jpg",
+    "Plot": "Um hacker descobre que a realidade é uma simulação controlada por máquinas.",
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Actors": "Keanu Reeves, Laurence Fishburne",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0816692",
+    "Title": "Interstellar",
+    "Year": "2014",
+    "Poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+    "Plot": "Exploradores espaciais viajam por um buraco de minhoca para salvar a humanidade.",
+    "Director": "Christopher Nolan",
+    "Actors": "Matthew McConaughey, Anne Hathaway",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0172495",
+    "Title": "Gladiator",
+    "Year": "2000",
+    "Poster": "https://br.web.img2.acsta.net/img/40/27/4027cc2b52f4759c444e28c753ae0b2e.jpg",
+    "Plot": "Um general romano vira gladiador e busca vingança contra o imperador corrupto.",
+    "Director": "Ridley Scott",
+    "Actors": "Russell Crowe, Joaquin Phoenix",
+    "Type": "movie"
+  }
+]
